@@ -4,7 +4,7 @@
 
 <header>
     <div>
-        <img src="https://cdn.discordapp.com/attachments/1136591322208272385/1172613663736217652/unoxdevs-black-removebg-preview.png?ex=6560f493&is=654e7f93&hm=6ee09c87f9ac023feb9ab44cd235a6734b49585eea6f506a4e3d557f61d176ea&" alt="UnoxDevs logo" class="w-14 md:w-16 lg:w-16 absolute ml-auto mr-auto left-0 right-0 -mt-[23rem] md:-mt-[22rem] lg:-mt-[22rem] opacity-30 hover:opacity-100 transition-all duration-500">
+        <img src="https://www.upload.ee/image/15948560/unoxdevs-black-removebg-preview.png" alt="UnoxDevs logo" class="w-14 md:w-16 lg:w-16 absolute ml-auto mr-auto left-0 right-0 -mt-[23rem] md:-mt-[22rem] lg:-mt-[22rem] opacity-30 hover:opacity-100 transition-all duration-500">
         <div class="text-center mt-96">
             <div class="text-white/50 absolute ml-auto mr-auto left-0 right-0 -mt-7 md:-mt-10 lg:-mt-10 text-sm md:text-lg lg:text-lg transition-all duration-300 font-thin">
                 <a href="mailto:contact@unoxdevs.fun" class="mx-2 hover:text-white/100 transition-all duration-300">./contact</a>
