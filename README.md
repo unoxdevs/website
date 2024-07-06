@@ -1,26 +1,2 @@
-
-# unoxdevs.fun
-UnoxDevs offical website source codes.
-
-
-## 🛠 Installation
-
-1- Download the project.
-
-2- Install the project.
-```js
-npm i
-```
-
-3- Run the project.
-```js
-npm run dev
-```
-
-  
-## ✨ Used Technologies
-
-- [Svelte](https://svelte.dev/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [Remix Icon](https://remixicon.com/)
-  
+The team have been closed for an indefinite date. We would like to thank those who have been with me until now and those who are in the team.
+- Queaxtra (Founder of UnoxDevs)
